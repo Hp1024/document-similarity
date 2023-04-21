@@ -1,0 +1,969 @@
+{100}{200}Ripped by Bosman (ICQ 19678111)
+{1616}{1640}What do you want?
+{1657}{1681}Beer.
+{1694}{1751}All I got is piss-warm Chango.
+{1756}{1790}That's my brand.
+{2254}{2286}This is damn good.
+{2340}{2409}I'd say this is the best beer|I've ever had.
+{2448}{2477}Actually...
+{2484}{2512}Need anything there?
+{2521}{2572}I'm just glad to be alive right now.
+{2595}{2663}I was up a few towns away.|You know Saragosa?
+{2677}{2758}I was at a bar there.|Not unlike this one, they serve beer.
+{2763}{2807}Not as good as this, but close.
+{2848}{2913}And I saw something|you wouldn't believe.
+{2935}{2996}I'm sitting there by myself.
+{3001}{3035}Now, this bar...
+{3068}{3103}...was full of lowlifes.
+{3201}{3253}I mean,|not like this place here.
+{3259}{3294}No, I mean bad.
+{3300}{3342}Like they were up to no good.
+{3388}{3443}I'm all by myself.|I like it that way.
+{3455}{3514}Meanwhile, things are going on.
+{3529}{3619}Under-the-table kinds of things.|Not too obvious...
+{3629}{3669}...but not too secret either.
+{3720}{3747}So...
+{3768}{3791}...I'm sitting...
+{3866}{3917}...and in walks...
+{3923}{4002}...the biggest Mexican|I have ever seen...
+{4008}{4052}...like he owns the place.
+{4058}{4129}Nobody knew what|to make of him or think of him.
+{4142}{4201}But there he was, and in he walked.
+{4220}{4255}He was dark too.
+{4294}{4344}I don't mean dark-skinned.
+{4359}{4391}This was different.
+{4397}{4459}It was as if he was always|walking in a shadow.
+{4471}{4523}Every step he took|towards the light...
+{4528}{4616}...just when you thought his face|would be revealed, it wasn't.
+{4627}{4682}It was as if the lights dimmed...
+{4687}{4710}...just for him.
+{4933}{4973}So this guy...
+{5013}{5054}...takes a seat at the bar...
+{5060}{5116}...orders a soda, sits back,|says nothing.
+{5122}{5153}He ordered a soda pop?
+{5167}{5215}I wasn't interested in his drink.
+{5229}{5281}I was interested in what he carried.
+{5308}{5382}Some sort of a suitcase,|kind of heavy.
+{5388}{5461}And he sat that thing beside him|as if it were his girl.
+{5529}{5585}Then, all of a sudden,|the bastard spoke.
+{5612}{5694}You know he was talking business|because he upset the bartender.
+{5700}{5749}Especially when he mentioned...
+{5768}{5814}He said something like:
+{5855}{5900}"Bitch" or...
+{5918}{5942}..."Bucho."
+{6097}{6135}That's what it was.
+{6142}{6172}Bucho!
+{6243}{6297}He pissed off the bartender plenty.
+{6303}{6363}Some of those unsavory characters...
+{6369}{6461}...not like these boys, but real scum,|they got pissed too.
+{6471}{6555}Started pulling guns and knives.|Starting some shit.
+{6568}{6600}Now, the stranger...
+{6606}{6644}...he bolts off of the barstool.
+{6650}{6709}He dives into the middle of the room|with his case.
+{6714}{6734}Dives right in.
+{6740}{6826}I don't know what he does there, but in|two shakes the suitcase is open...
+{6832}{6931}...and he's pulled out the biggest hand|cannon I've ever fucking seen.
+{7447}{7485}That was just the beginning.
+{7512}{7605}You just stood there?|You didn't run for cover or join in?
+{7617}{7663}I was frozen stiff.
+{7673}{7724}All I could do was watch this...
+{7823}{7868}...thing tear the place apart.
+{7874}{7902}It was amazing.
+{7988}{8081}Cutthroat scumbags were coming forward|and dying much-deserved deaths.
+{8094}{8181}Don't get me wrong, this was no|class-act group like you got here.
+{8191}{8217}Not at all.
+{8223}{8282}No, these guys were world-class turds.
+{8288}{8351}I'm sorry, but they got|what they deserved.
+{8359}{8400}It was Judgment Night in that place.
+{8494}{8538}He grabs one of these guys...
+{8544}{8585}...the only guy still breathing.
+{8591}{8645}He starts getting|information out of him.
+{8650}{8689}And I knew by the whispering...
+{8695}{8748}...this guy was giving up the goods.
+{8754}{8818}Spilling his guts.|Confessing the world.
+{8823}{8869}He told that stranger everything.
+{8903}{8935}Everything?
+{9079}{9161}Can I get a cleaner mug?|This one's dirty.
+{9203}{9233}Fuck you.
+{9263}{9309}It's the cleanest one I got.
+{9519}{9550}So anyway...
+{9571}{9600}...without warning...
+{9605}{9649}...without any hint or preview...
+{9661}{9701}...the stranger whips around...
+{9707}{9735}...and he sees...
+{9753}{9774}...me.
+{9790}{9823}You saw his face?
+{9839}{9871}His face?
+{9879}{9903}No.
+{9940}{9973}His eyes.
+{10411}{10460}And he didn't do anything to you?
+{10465}{10527}Not really. He turned|to the guy on the floor.
+{10593}{10631}Stranger shot him...
+{10659}{10742}...walked over to the bartender,|paid and left.
+{10751}{10798}The bartender lived?
+{10903}{10966}The bartender never gets killed.
+{11003}{11025}But...
+{11070}{11098}...as he neared the door...
+{11271}{11338}No, man, the bartender got it|worse than anybody.
+{11461}{11484}Here.
+{11490}{11521}It's on the house...
+{11561}{11600}...if you remember his face.
+{11635}{11686}Thanks, but no thanks.
+{11705}{11748}I'm clearing out of here.
+{11754}{11789}Because I think...
+{11811}{11845}...he's headed this way.
+{11902}{11925}Thank you, boys!
+{11955}{11990}Y'all take care!
+{14409}{14440}Get back.
+{14500}{14524}Stay back.
+{17461}{17492}Who is it?
+{17503}{17553}It's your only friend.
+{17711}{17786}Don't you think you're being|a little too cautious?
+{17966}{18047}One day you'll lay too hard on that|and blow your brains out.
+{18128}{18153}What do you want?
+{18270}{18294}He's there.
+{18353}{18415}I mentioned his name|and they freaked.
+{18440}{18467}Bucho's there?
+{18481}{18560}One second they weren't|listening to a word I said...
+{18566}{18610}...but when I mentioned him...
+{18616}{18639}...they listened.
+{18694}{18771}And suddenly they got very interested|in who you were.
+{18819}{18881}So I laid the story down|nice and thick.
+{18899}{18927}How thick?
+{18938}{18964}Pretty thick.
+{18969}{19020}You were the biggest Mexican|I'd ever seen.
+{19025}{19049}Wonderful.
+{19059}{19108}I exaggerated, but they bought it.
+{19114}{19168}They're shitting bricks right now,|I promise.
+{19174}{19199}Where do I go?
+{19294}{19338}Tarasco Bar's a good start.
+{19347}{19416}Don't turn it into a bloodbath|like last time.
+{19433}{19466}That wasn't my fault.
+{19472}{19492}Of course not.
+{19498}{19522}They started it.
+{19528}{19574}Whatever. Just remember...
+{19580}{19659}...Bucho has plenty of thugs,|but without them, he's dead.
+{19683}{19707}Save your bullets.
+{19719}{19739}Suddenly...
+{19772}{19805}...you're my big brother.
+{19829}{19894}I do feel some responsibility for you.
+{19953}{20001}- Can I ask you something?|- What?
+{20011}{20051}What happens when he's dead?
+{20122}{20159}When Bucho's dead...
+{20245}{20277}...it's over.
+{20333}{20369}He's the last one.
+{20400}{20456}End of payback. Eye for an eye.
+{20461}{20516}You finally going to be satisfied?
+{20543}{20575}I think so.
+{20595}{20631}I hope so.
+{20731}{20796}I don't have the stomach|for this anymore.
+{20831}{20869}You never did.
+{20911}{20947}Neither did you.
+{23329}{23401}I just called the Oro Verde Bar in|Saragosa.
+{23455}{23500}There was no answer.
+{23542}{23594}Let me know if you hear anything.
+{23722}{23784}I want a close lookout|on all operations.
+{23793}{23880}That means double and triple checking,|even our regular customers.
+{23886}{23914}I'll handle it.
+{23938}{24010}Where's my car? Is it finished?|How long must I wait?
+{24016}{24048}I sent it back.
+{24054}{24126}Again? I could have built the thing|myself by now.
+{24132}{24182}- And what's this?|- It's my sister's nephew.
+{24188}{24270}He needs work, so he wanted to|show you his fighting abilities.
+{24277}{24364}You call this an audition,|fighting against Pipon?
+{24376}{24469}If he can't beat Cristos, I'm not|interested. Get in there.
+{24495}{24518}Get out!
+{24974}{25025}He doesn't look special so far.
+{25073}{25095}Kick his ass!
+{25990}{26031}That's more like it.
+{26161}{26196}He'll never dance again.
+{26444}{26510}- So much for Cristos.|- Told you.
+{26516}{26583}Listen. This is what I want you to do.
+{26603}{26678}Take extra men and place them|around the Tarasco and La Azteca.
+{26684}{26750}These Colombians wonder|if I can handle the extra volume.
+{26756}{26805}They're watching us enough as it is.
+{26821}{26848}- Hey.|- What?
+{26854}{26877}And him?
+{26942}{27029}Cast that leg up.|And welcome to the family.
+{29092}{29131}I have a house payment.
+{29415}{29439}Excuse me.
+{29453}{29477}But...
+{29483}{29523}...l used to work in a bar...
+{29528}{29592}...so I know what it's like|to wait on people.
+{29598}{29672}And I want to tell you|that the service here...
+{29678}{29739}...needs immediate improvement.
+{29767}{29803}What do you mean?
+{29814}{29845}What do I mean?
+{29866}{29896}Our waiter...
+{29930}{29954}...where is he?
+{30013}{30069}Don't tell me|he's still in the bathroom.
+{30115}{30190}He never came back to see if we|wanted anything else.
+{30199}{30246}He never brought us our check.
+{30254}{30340}We wanted our check so we could|get the hell out of here.
+{30405}{30436}Here.
+{30446}{30485}This should be sufficient.
+{30491}{30547}And don't be expecting a tip.
+{30589}{30651}If you don't treat me good,|I won't ask you out.
+{30677}{30729}And your beer tastes like piss.
+{30735}{30797}- We know!|- Because we piss in it!
+{30808}{30847}That's not all!
+{30916}{30945}Bad beer, bad service.
+{30951}{30986}Don't they know not to come in?
+{31230}{31253}2 cervezas.
+{31294}{31324}These are for you.
+{31567}{31595}Just a minute.
+{32980}{33021}I wanted to see the guitar.
+{33119}{33150}Do you play?
+{33156}{33203}Yes, do you?
+{33214}{33247}A little bit.
+{33269}{33304}Play something.
+{33334}{33370}Not right now.
+{33380}{33452}This is my father's,|but he doesn't play anymore.
+{33462}{33486}No?
+{33499}{33602}There's not much work for a mariachi.|Now he just watches TV.
+{33649}{33697}I'm sorry to hear that.
+{33704}{33755}He was never that good anyway.
+{33761}{33820}Not as good as I'll be. Listen.
+{33988}{34028}Loosen your fingers a bit.
+{34176}{34206}Like this.
+{34358}{34393}You know what I mean?
+{34424}{34449}Loosen them up.
+{34493}{34526}How do you do that?
+{34541}{34570}All right.
+{34608}{34634}Give me this.
+{34804}{34874}Forget this hand, okay?|You want to get faster.
+{34904}{34930}Here's the secret.
+{35058}{35080}Got it?
+{35086}{35119}Good.
+{35144}{35184}Practice this...
+{35231}{35261}...every day.
+{35336}{35369}All day.
+{35417}{35440}Next time...
+{35480}{35528}...I'll show you how to play a tune...
+{35534}{35577}...using what you've learned.
+{35670}{35699}Practice.
+{36321}{36355}This reminds me of a joke.
+{36407}{36456}This guy comes into a bar...
+{36464}{36512}...walks to the bartender and says...
+{36518}{36576}..." Bartender, I got a bet for you.
+{36587}{36646}I'll bet you $300 that I can piss...
+{36651}{36699}...into that glass over there...
+{36705}{36739}...and not spill a drop."
+{36774}{36849}The bartender looks at the glass.|It's 1 0 feet away.
+{36855}{36880}He says...
+{36886}{36940}..."You're telling me|you'll bet me $300...
+{36946}{36992}...that you can piss,|standing here...
+{36998}{37073}...into that glass,|and not spill a single drop?"
+{37101}{37145}Customer looks up and says:
+{37162}{37193}"That's right."
+{37203}{37255}Bartender says, "You've got a bet."
+{37261}{37315}The guy goes, "Okay, here we go."
+{37330}{37372}Pulls out his thing.
+{37378}{37422}He's thinking about the glass.
+{37428}{37488}He's thinking about the glass.|Thinking about his dick.
+{37496}{37585}Dick, glass, dick, glass,|dick, glass, dick, glass.
+{37591}{37643}Then he lets it rip.
+{37667}{37725}He pisses all over the place.
+{37731}{37767}He pisses on the bar.
+{37773}{37850}He pisses on the stools,|on the floor, the phone.
+{37867}{37902}On the bartender!
+{37915}{38006}He's pissing everywhere|except the fucking glass!
+{38077}{38150}Bartender's laughing.|He's $300 richer. He's like...
+{38173}{38207}Piss dripping off his face.
+{38215}{38267}He says, "You fucking idiot, man!
+{38273}{38338}You got it in everything|except the glass!
+{38355}{38427}You owe me $300, puta."
+{38459}{38526}Guy goes, " Excuse me|just one little second."
+{38532}{38568}Goes in the back of the bar.
+{38581}{38638}There's a couple of guys|playing pool.
+{38644}{38675}He walks over to them.
+{38697}{38729}Comes back to the bar.
+{38735}{38794}Goes, " Here you go. $300."
+{38817}{38848}The bartender's like...
+{38854}{38928}"Why are you so happy?|You just lost $300, idiot!"
+{38937}{38996}The guy says,|"See those guys there?
+{39030}{39087}I just bet them $500 apiece...
+{39117}{39164}...that I could piss on your bar...
+{39170}{39247}...your floor, your phone,|and piss on you...
+{39267}{39350}...and not only would you not|be mad about it...
+{39356}{39396}...you'd be happy."
+{39603}{39638}That's funny shit, huh?
+{39659}{39718}"You'd be happy about it!"
+{39846}{39873}Guess what?
+{39980}{40010}He didn't check out.
+{40041}{40061}You...
+{40105}{40155}...you checked out just fine.
+{40213}{40276}Well, I knew I would because...
+{40282}{40313}...me and Bucco...
+{40319}{40349}- ...we go way back.|- Bucho.
+{40365}{40390}Him too.
+{40477}{40505}And this guy...
+{40511}{40573}- I just met him today.|- Go on in.
+{40579}{40612}Good work, by the way.
+{40618}{40646}- Good work.|- Go in.
+{40652}{40715}It's nice to see you cross the I's|and dot the T's here.
+{40721}{40764}It's cool, ese, cool.
+{40773}{40799}Lead the way.
+{41853}{41887}In there?
+{41930}{41970}Fucking disgusting.
+{42500}{42531}What do you want?
+{42583}{42630}I'm just looking for work.
+{42645}{42679}There's no work here.
+{42701}{42734}I see.
+{42884}{42926}Is there something to drink?
+{42932}{42974}Is there something in the case?
+{42980}{43011}Yeah.
+{43017}{43045}What?
+{43057}{43087}My guitar.
+{43197}{43277}Sure you don't want to hear me play|before you say there's no work?
+{43294}{43353}We just want to see|what's in the case.
+{43365}{43395}If it's like you say...
+{43407}{43439}...drink all you want.
+{43531}{43575}But I told you already.
+{43585}{43637}I'm a musician.|This is my guitar.
+{43643}{43667}Don't touch it!
+{43680}{43713}Get him away!
+{43909}{43933}Hurry.
+{43965}{43991}How you doing?
+{44063}{44085}What is it?
+{44102}{44129}It's a guitar.
+{44235}{44263}It's a guitar.
+{44307}{44361}We heard about a case full of guns.
+{44367}{44387}I know.
+{44411}{44450}Just had to make sure.
+{44458}{44478}I understand.
+{44587}{44617}It's him!
+{44672}{44699}Well, yes.
+{44705}{44728}It's me.
+{44759}{44817}I'm not against you, so keep it down.
+{44823}{44848}Keep it down.
+{44876}{44939}I'm just looking for a man who calls--
+{44992}{45027}Not yet.
+{45746}{45782}What the fuck's going on?!
+{45853}{45882}Is that going on now?
+{46876}{46904}Watch him!
+{46912}{46947}What the fuck's going on?
+{47184}{47211}Friends of yours?
+{47242}{47331}I swear I have no fucking idea|what the hell's going on!
+{47659}{47679}Shit!
+{48787}{48823}You missed me!
+{49499}{49531}Get up.
+{49590}{49619}Come here.
+{49700}{49795}I'm looking for a man who|calls himself " Bucho."
+{49831}{49856}That's all.
+{49881}{49945}But you had to do it the hard way.
+{50099}{50130}Listen to me.
+{50156}{50197}I don't want to kill you.
+{50221}{50295}I just want you to take me to him.|Understand?
+{50560}{50615}Tried to shoot me in the back, huh?!
+{50826}{50852}Fucker!
+{51699}{51734}If you want to go...
+{51750}{51770}...go.
+{51820}{51855}If you're going to stay...
+{51894}{51919}...relax.
+{52345}{52376}Fuck you!
+{57194}{57227}The money's still in back.
+{57233}{57266}So's the pickup.
+{57271}{57361}Pick-up Guy's lying on the floor|with 3 bullets in his head.
+{57366}{57428}- Tavo must have shot him.|- Where's Tavo?
+{57443}{57468}Tavo's outside.
+{57495}{57516}Where?
+{57524}{57549}2 blocks up.
+{57554}{57612}Tell him to get his ass over here!
+{57617}{57679}- I want to know what happened!|- He's dead.
+{58512}{58550}I'll tell you, boss...
+{58574}{58638}...whoever it was didn't|come for the money.
+{58680}{58718}They came for me.
+{58775}{58878}You've heard stories of the man|with a guitar case full of weapons.
+{58904}{58984}Those are stories.|That's all they are, stories.
+{58989}{59043}I cannot believe it.
+{59181}{59242}Can't you see we are fucking closed?!
+{59315}{59347}We need to find him.
+{59352}{59406}You said the Colombians are watching.
+{59419}{59449}So we move quickly.
+{59455}{59499}He's probably left town.
+{59518}{59556}He knows I'm here now.
+{59562}{59611}He's not going anywhere.
+{59890}{59922}Where am l?
+{59938}{59970}Bookstore.
+{59988}{60029}Bookstore-cafe.
+{60169}{60212}What the hell did you give me?
+{60218}{60252}Painkillers.
+{60258}{60285}I'm operating.
+{60454}{60489}Where is everybody?
+{60502}{60554}I closed early|so no one would come around.
+{60560}{60633}No one would come around anyway.
+{60669}{60692}Why?
+{60703}{60733}Nobody reads.
+{60908}{60959}Is it yours? All those...
+{60965}{60994}...books?
+{61021}{61050}It's mine.
+{61056}{61103}My parents passed away.
+{61112}{61173}They left me the building|and some money.
+{61179}{61215}I have an apartment upstairs.
+{61304}{61342}Why a bookstore?
+{61348}{61404}This town never had a bookstore.
+{61432}{61482}So I get this bright idea.
+{61552}{61613}Are you sure|you know what you're doing?
+{61692}{61726}Why a bookstore, huh?
+{61746}{61802}All right. Isn't there a hospital?
+{61808}{61886}Trust me. You don't want|to go to a hospital here.
+{61964}{62018}You'll never find work in this town.
+{62043}{62064}What?
+{62079}{62109}The guitar.
+{62115}{62160}Nobody hires musicians around here.
+{62204}{62232}I know.
+{62293}{62336}I use it to pick up girls.
+{62488}{62528}Oh, come on!
+{62728}{62765}- You see this?|- I see it.
+{62795}{62845}That one had your name on it.
+{62919}{62962}You don't even know my name.
+{62971}{62992}That's right.
+{63010}{63051}I don't know your name.
+{63090}{63120}You smoke?
+{63182}{63207}Nope.
+{63396}{63422}Thanks.
+{63428}{63499}It's the least I can do for you,|after saving my life.
+{63528}{63568}Have a couple more.
+{63574}{63622}- What is it?|- Painkillers.
+{63709}{63740}Hot water.
+{63773}{63796}Shit!
+{63817}{63839}What're you doing?!
+{63845}{63875}- Sorry.|- You're crazy.
+{63881}{63945}Relax. Here, this is the cold water.
+{64098}{64125}Better?
+{64161}{64190}Let's stitch you up.
+{64871}{64902}Get out of here!
+{66744}{66767}I know you.
+{66796}{66823}Really?
+{66869}{66938}You're that guy you always|hear stories about.
+{66980}{67015}You kill drug dealers.
+{67021}{67064}Do you know Bucho?
+{67098}{67173}I hope you don't think|you can take Bucho alone.
+{67179}{67200}You know him?
+{67206}{67231}Yeah.
+{67269}{67326}I have a few friends I can call.
+{67332}{67359}They owe me a favor.
+{67404}{67434}Don't complain.
+{67442}{67530}That would be straight if you hadn't|been moving so much.
+{67548}{67578}That one's worse.
+{67584}{67616}Who did that one?
+{67625}{67673}I did, a long time ago.
+{67850}{67906}I don't want to know what that is.
+{68004}{68080}Saved my life more than once.
+{68121}{68146}You can have it.
+{68160}{68196}No, thanks.
+{68232}{68272}No, I'm okay.
+{68351}{68382}Will you help me?
+{68495}{68544}I don't think I can help you.
+{68590}{68648}I must leave my things here|for a few minutes.
+{68699}{68719}Okay.
+{68725}{68758}I can trust you, right?
+{68764}{68785}Yeah.
+{68791}{68806}Really?
+{68856}{68882}All right.
+{68900}{68923}Where're you going?
+{68929}{68976}I have to go to church.
+{68990}{69016}What for?
+{69022}{69064}Confess my sins.
+{69076}{69106}I'm a sinner.
+{69117}{69140}I know.
+{69298}{69330}Did I thank you?
+{69344}{69380}No, you didn't.
+{69452}{69478}I will.
+{69904}{69938}What do you think?
+{69996}{70030}Bulletproof windows...
+{70036}{70068}...sidings...
+{70074}{70100}...the hood.
+{70146}{70179}Just what you asked for.
+{70262}{70286}Listen...
+{70303}{70385}...there are no more pickups today,|except one in Hidalgo.
+{70391}{70421}Stay away from there.
+{70427}{70518}The rest of the town is game.|Take this car and find him!
+{70525}{70548}I'll take my truck.
+{70554}{70601}Take the car. That's why I got it.
+{70607}{70648}If you see a stranger...
+{70654}{70724}...kill him. I can't take|any more chances.
+{70847}{70883}The sunroof's bulletproof.
+{70889}{70958}Works as a shield|when shooting out the top.
+{70964}{70998}Look at this guy.
+{71140}{71204}It works.|Now go and get him.
+{71269}{71365}I want you to take her.|You'll need all the help you can get.
+{71721}{71746}You too.
+{72445}{72524}Bless me, Father, for I have|just killed quite a few men.
+{72530}{72565}No shit.
+{72586}{72663}From what I hear, you cleaned out|the entire Tarasco Bar.
+{72669}{72753}Nice job. Every hit man|in Coahuila's looking for you.
+{72759}{72794}Things got out of hand.
+{72808}{72852}I said no more bloodbaths.
+{72858}{72929}I told you. Bucho's the last one.
+{72958}{72982}Then I'm finished.
+{72988}{73070}No, I'm finished.|They killed the woman you loved.
+{73076}{73119}Then they shot through your hand.
+{73125}{73173}Two points. Wake up!
+{73179}{73238}There is no payback for that.
+{73273}{73296}Walk away.
+{73336}{73355}Trust me...
+{73361}{73451}...this is one you won't|want to see through to the end.
+{73495}{73530}What do you mean?
+{73548}{73639}I've done some checking, and Bucho|is not someone to mess with.
+{73645}{73670}Trust me.
+{73698}{73737}I cannot leave without Bucho.
+{73743}{73813}You don't expect to live much longer?|Fine. I do.
+{73819}{73854}If you need any more help...
+{73860}{73887}...don't call me.
+{73892}{73952}Call Campa and Quino.|They're crazy.
+{73958}{74012}I should be able to count on you!
+{74018}{74058}Those days are gone.
+{74069}{74116}Just wait! Come on!
+{74122}{74175}Good luck. Don't get shot.
+{74223}{74262}Did you want confession?
+{74349}{74420}Maybe later, Father.|Because where I am going...
+{74426}{74477}...I'd just have to come right back.
+{75126}{75160}Look...
+{75193}{75262}...l didn't call about it before|because...
+{75284}{75313}...l could handle it.
+{75369}{75424}Yes, he's got no place to go.
+{75443}{75490}I got my men on him right now.
+{75529}{75572}You brought someone in?!
+{75578}{75623}How long has he been here?
+{75636}{75675}Who is he?
+{75712}{75783}What are you talking about?|We can handle it.
+{75795}{75857}Someone like that will|just tear the place up...
+{75863}{75910}...will make a lot of noise.
+{75988}{76032}What does your guy look like?
+{76098}{76179}I've got to know, or the wrong people|might get killed.
+{76192}{76290}Next time I'll call sooner,|but I knew I could handle this--
+{76334}{76360}Shit!
+{76450}{76511}What's the number|to the phone in my car?
+{76558}{76626}Fuckheads, what's the number|to my car phone?!
+{76636}{76662}Number!
+{76740}{76780}It's in your car, boss.
+{77229}{77321}What's the fucking number|to the phone in my car?
+{77451}{77474}Fuck.
+{77549}{77639}- What are you doing? Get away.|- You can't go away like this.
+{77645}{77664}I need you.
+{77728}{77767}I dreamt about her again.
+{77773}{77801}So what!
+{77865}{77889}Listen to me!
+{77957}{77985}You are right.
+{78021}{78046}You are right.
+{78098}{78128}Maybe I should quit.
+{78138}{78228}Now you're talking some sense,|because let me tell you...
+{78234}{78303}...you keep this up|and it'll be over real quick.
+{79243}{79266}Get in!
+{79447}{79464}Watch it!
+{79698}{79752}Where is he? We got to kill him.
+{80986}{81018}It's me again.
+{81024}{81097}The man you sent in--|What does he look like?
+{81133}{81210}Just so that I know.|So my people don't get confused.
+{81237}{81298}Dark hair, dark skin.|I figured that.
+{81307}{81350}Can I have a few more details?
+{81370}{81402}Tattoo on his chest.
+{81446}{81511}Tattoo of a woman on his chest.
+{81516}{81559}What else?
+{81572}{81599}Any weapons?
+{81605}{81644}Throwing knives.
+{81689}{81713}And...?
+{81738}{81838}And pay-phone money so he can|call you with progress reports.
+{81874}{81898}Yes, okay.
+{81903}{81946}That should do it, thanks.
+{82002}{82048}We'll stay out of his way.
+{82062}{82092}Yeah, thank you.
+{82188}{82213}Fuck!
+{82219}{82317}This is what I was talking about.|Our own people are watching us.
+{82322}{82384}He's been here since this morning,|checking on us.
+{82412}{82432}Bastards!
+{82449}{82478}Go find him!
+{82483}{82505}Go and find who?
+{82515}{82543}There's no one else!
+{82548}{82646}He is claimed as a Colombian.|They won't admit they're after you.
+{82659}{82757}There's someone else out there.|And I want to find him now!
+{82763}{82794}Who else is there?
+{82802}{82834}The guitar player?
+{82840}{82874}The guy is a myth.
+{82883}{82954}- A myth.|- You are not a believer.
+{82961}{83010}That will be your downfall.
+{83016}{83084}I'm going with you.|I can't leave this up to you.
+{83118}{83172}Now my ass is on the line.
+{83587}{83607}Manito!
+{83620}{83663}Why aren't you practicing?
+{83674}{83740}I told you, man.|Every day, all day.
+{83761}{83800}I can't play this guitar.
+{83841}{83867}Come on.
+{83873}{83903}Where are you going?
+{83911}{83956}I'm going to get my guitar.
+{83970}{83998}I'll wait here.
+{84003}{84044}It's right over there.
+{84068}{84098}What's over there?
+{84103}{84178}My guitar. I want to show you|I've been practicing.
+{84418}{84448}Stupid kid.
+{85135}{85204}Stay there.|No one else is supposed to be here.
+{85338}{85378}See? Here it comes.
+{85776}{85833}See? Now this one I can play.
+{86084}{86120}Don't even think about it.
+{86162}{86190}Give me the guitar.
+{86216}{86239}The guitar!
+{86322}{86341}Go away.
+{86544}{86572}Shit.
+{86823}{86869}This your father's guitar?
+{86919}{86965}Is this why he doesn't work now?
+{86970}{87018}They switch guitars every few days.
+{87023}{87054}What do you get?
+{87059}{87144}My father doesn't have to work.|He watches TV.
+{87149}{87184}He says they hide it all over.
+{87189}{87256}Ladies with baby carriages,|the church...
+{87262}{87312}...bookstores. Ask Carolina.
+{87317}{87337}She'll tell you.
+{87342}{87372}She does the same thing.
+{87800}{87835}What? Jesus.
+{87841}{87886}- What did you tell him?!|- Who?
+{87892}{87959}- You work for him, right?|- I work for nobody.
+{87965}{88009}I want to know what you said!
+{88015}{88049}- Nothing.|- Nothing?!
+{88055}{88099}What are you talking about?!
+{88105}{88128}You said I was at church!
+{88133}{88203}- I haven't said anything to anybody!|- Look at me now!
+{88209}{88241}You're protecting him!
+{88246}{88271}- I'm not!|- You are!
+{88277}{88347}If I was, I would've|told him you were here!
+{88354}{88373}You don't want him dead!
+{88378}{88467}I want no one dead!|Killing him is not the answer.
+{88473}{88493}See?!
+{88499}{88525}You know what I see?
+{88531}{88584}I see you are no better than he is.
+{88628}{88665}The same shit!
+{88833}{88864}Anybody can be bought.
+{88870}{88903}Not anybody.
+{88909}{88940}You're so good, huh?
+{88946}{89001}You see this bookstore? It's mine.
+{89006}{89063}Somebody comes|and drops something off.
+{89069}{89113}- A couple of days later...|- How much?
+{89118}{89157}...somebody else comes to|pick it up.
+{89162}{89186}I rent space!
+{89191}{89234}- That's all I do.|- How much?!
+{89239}{89262}The back room.
+{89267}{89311}How much does he pay you?
+{89415}{89449}$50,000 a year.
+{89454}{89504}$50,000.
+{89576}{89598}Cash.
+{89834}{89908}Look at you. You're a mess again.|Come here.
+{90145}{90171}On the counter.
+{90317}{90381}I didn't open this place|just to see it fail.
+{90386}{90452}It wasn't making any money.|I would've had to close.
+{90457}{90545}One day, Bucho walks in|with a suitcase full of money...
+{90551}{90611}...and says to me,|" Carolina, take this...
+{90616}{90658}...and go about your business...
+{90665}{90736}...and I will give you $50,000 a year."
+{90840}{90896}They've done it with|a lot of people here.
+{90901}{90958}They use our business as fronts.
+{90973}{91046}I used some of the money|to keep this place open.
+{91052}{91106}And I stashed the rest, thinking...
+{91115}{91148}...if some day...
+{91154}{91213}...things got really bad here...
+{91219}{91268}...I'd have the money to leave.
+{91288}{91325}But I can't leave.
+{91348}{91412}Because once you're in,|you can't get out.
+{91419}{91482}The closest thing I had to a brother...
+{91494}{91534}...was just killed.
+{91559}{91620}I cannot stop what it is I have to do.
+{91639}{91668}I cannot.
+{91725}{91743}Damn it!
+{91971}{92010}Do you need some help?
+{92016}{92071}No. I was trying to move my...
+{92085}{92121}...my cash register.
+{92143}{92183}I needed a new one anyway.
+{92411}{92445}So...
+{92462}{92495}...what brings you here?
+{92508}{92569}I don't come around much anymore,|do l?
+{92619}{92649}No.
+{92687}{92718}How've you been?
+{92727}{92759}Been okay.
+{92769}{92797}Business?
+{92803}{92843}Business is good.
+{92891}{92934}About as good as it can be.
+{92975}{93010}I told you...
+{93016}{93035}...bookstores...
+{93090}{93125}Not in this town.
+{93148}{93179}And you?
+{93290}{93384}I'm looking for someone|that's threatening our business.
+{93389}{93446}You may have heard|about the bar today.
+{93451}{93513}Oh, yeah. There was a shooting.
+{93521}{93596}Have you seen anyone around|that may look--
+{93602}{93619}Suspicious?
+{93782}{93810}No.
+{93894}{93924}Fuck.
+{93930}{94021}The guy I'm looking for|is obviously dangerous...
+{94082}{94147}...so I'm not asking you|to confront him...
+{94174}{94199}...but...
+{94204}{94226}...if you see him...
+{94286}{94323}...will you call me?
+{94349}{94375}Sure.
+{94464}{94487}I mean...
+{94701}{94765}...we can't have any more shootings.
+{94999}{95039}But I haven't seen him.
+{95201}{95233}You...
+{95239}{95276}...wouldn't lie to me...
+{95282}{95308}...would you?
+{95471}{95494}No.
+{95611}{95656}That's some mess you've got.
+{95673}{95695}Yeah.
+{95808}{95839}I better clean it up.
+{95887}{95938}Thank you for the coffee.|Call me.
+{95945}{95977}Yes...
+{96003}{96043}...if I see him...
+{96062}{96105}...I'll be sure to call you.
+{96185}{96219}Call me.
+{96364}{96393}Was that him?
+{96398}{96478}You're not doing anything to him here|or we'll both be killed.
+{96484}{96535}And I don't want to die over this.
+{96573}{96617}Stay away from the window.
+{97932}{97977}This one's not so bad.
+{98084}{98141}Actually, it's almost straight.
+{98200}{98241}Why didn't you tell him...
+{98247}{98282}...l was here?
+{98340}{98369}I don't know.
+{98419}{98484}I know you think|he's a terrible person.
+{98525}{98562}Honey, he is.
+{98614}{98643}He is.
+{98675}{98715}Not really.
+{98730}{98771}He's got a good side to him.
+{98776}{98841}And that's the only thing|that can save him.
+{98982}{99012}What is this?
+{99031}{99071}That was for you.
+{99079}{99120}It was for me?
+{99126}{99169}It's not for me anymore?
+{99197}{99239}Okay, you can have it.
+{99337}{99415}I didn't get you a case,|since you already have one.
+{99421}{99468}It's beautiful. Thank you.
+{99474}{99510}And I was thinking maybe...
+{99516}{99611}...you can clear out the guns|and put this in instead.
+{99647}{99673}Maybe.
+{99699}{99730}Play something.
+{99736}{99757}No.
+{99763}{99808}Come on, let me help you.
+{99892}{99927}- I'm sorry.|- Be careful.
+{99940}{99967}It's okay.
+{99984}{100036}No, I can't play anymore.
+{100049}{100068}Why?
+{100074}{100123}Well, look at my hand. It's...
+{100160}{100182}I can't.
+{100188}{100230}We can improvise.
+{100236}{100271}Improvise?
+{100342}{100369}Do you play?
+{100421}{100451}A little.
+{100493}{100519}All right.
+{100637}{100682}That's not even a note.
+{100703}{100745}Let me show you.
+{100751}{100801}Put these fingers over here.
+{100809}{100838}Like this?
+{100856}{100900}Good. That's nice.
+{100906}{100934}Let me see.
+{101306}{101329}All right.
+{104269}{104294}Memo...
+{104306}{104342}...he's in the bookstore.
+{104356}{104391}Yeah, I'm sure of it.
+{104434}{104534}Check it out anyway. If he's in there,|and she's hiding him...
+{104540}{104571}...kill them both.
+{104579}{104625}Make it look like an accident.
+{104656}{104698}It's a bookstore.
+{104704}{104740}Burn it down.
+{107966}{107995}Move!
+{108056}{108073}Come on!
+{108089}{108110}Hurry!
+{108123}{108142}Take this!
+{108150}{108177}Do what?
+{108271}{108296}Come on!
+{108301}{108320}What!
+{108325}{108354}I must get my purse!
+{108360}{108384}Fuck it!
+{108447}{108464}Wait!
+{108483}{108501}Wait!
+{108513}{108533}Here.
+{108623}{108660}You look great.
+{108691}{108718}Thank you.
+{108761}{108786}Where're we going?
+{108792}{108827}Downstairs, out the front.
+{108832}{108856}Take this.
+{109033}{109069}Jesus Christ!
+{109141}{109172}What are you doing?!
+{109233}{109269}Get out of here!
+{109519}{109545}Let's go!
+{110338}{110382}Go! Go! Go!
+{110947}{110973}You okay?
+{111739}{111785}I'm sorry, Carolina.
+{111828}{111859}I'm sorry.
+{112081}{112109}That's him.
+{112116}{112136}What?
+{112194}{112224}That's Bucho?
+{112535}{112589}I can shoot him from here.
+{112665}{112691}Motherfucker.
+{113273}{113298}What?
+{113449}{113491}What are you doing?
+{113496}{113518}Shoot him.
+{113524}{113541}Shoot him!
+{113593}{113644}My whole life was in there.
+{113755}{113790}Can't you see?
+{113796}{113855}Can't you see?|He's going to kill me.
+{113860}{113887}Come on!
+{113924}{113941}Damn!
+{114098}{114165}What's wrong?|You had the perfect chance!
+{114185}{114253}What's the matter?|Why didn't you shoot him?
+{114437}{114461}Come on.
+{114473}{114498}Come on.
+{114536}{114561}Come on!
+{114831}{114867}Wait a minute!
+{115117}{115149}It's one thing...
+{115154}{115233}...if you can't find someone|running around the city...
+{115248}{115298}...hiding anyplace he chooses.
+{115313}{115355}I can understand that.
+{115361}{115422}Now what I can't understand is...
+{115430}{115518}...how can you let him get away|when you knew where he was?
+{115539}{115579}You drive around town...
+{115584}{115633}...you see someone you don't know,|shoot them.
+{115638}{115675}How hard is that?
+{115956}{115987}Look over there.
+{116059}{116083}I don't know him.
+{116113}{116153}Never seen him before.
+{116173}{116192}A gun!
+{116222}{116261}It must be him.
+{116341}{116387}Now, how hard is that?
+{116457}{116499}It's that easy.
+{116678}{116698}Look!
+{116703}{116739}Who are those guys?
+{116745}{116785}I've never seen them.
+{116955}{116993}Now, how hard is that?
+{117082}{117103}Bang!
+{117116}{117187}Can you handle that?|Or I got to do everything myself?
+{117192}{117220}I'll handle it.
+{117259}{117300}Bet your ass you will.
+{117309}{117378}Take my car!|That's what I bought it for!
+{117422}{117451}Stay here.
+{117456}{117517}I need someone competent|guarding this place!
+{117579}{117606}Hurry up!
+{118337}{118393}I wasn't always like this.
+{118420}{118459}I can see that.
+{118693}{118718}I was a musician.
+{118747}{118779}Were you any good?
+{118793}{118827}I was okay.
+{118923}{118965}They shot my hand.
+{119015}{119041}You know...
+{119072}{119151}...it's easier to pull the trigger|than play guitar.
+{119204}{119268}Easier to destroy than to create.
+{119384}{119433}They killed the woman I loved.
+{119529}{119570}They ruined my life.
+{119670}{119731}Bucho's men were responsible for it.
+{119957}{120021}Why didn't you kill Bucho?
+{120037}{120063}All right...
+{120113}{120148}...here's the plan:
+{120207}{120286}You can still get away|without me having to kill him.
+{120322}{120349}You have money.
+{120355}{120389}There is no money.
+{120415}{120438}What?
+{120444}{120471}It's gone.
+{120476}{120533}I had it hidden in the books.
+{120544}{120571}It burned.
+{120580}{120615}Oh, shit.
+{120645}{120706}I have nothing. Nothing.
+{120712}{120740}Oh, great.
+{120750}{120779}Shit!
+{120933}{120984}What about calling your friends?
+{121030}{121059}Campa.
+{121097}{121124}Quino.
+{121165}{121202}They'd destroy the city.
+{121207}{121272}Bucho would still get away.|Forget it.
+{121584}{121638}It may not matter to you...
+{121680}{121760}...but he'll follow me everywhere I go|until I'm dead.
+{121781}{121816}It does matter to me.
+{122394}{122421}Campa?
+{122457}{122492}Is Quino there?
+{122560}{122634}How fast can the two of you|get to Santa Cecilia?
+{122640}{122674}I'll be looking for you.
+{122692}{122716}Thanks.
+{122768}{122792}Campa...
+{122826}{122862}...bring your guitars.
+{123668}{123708}Give me the strength...
+{123718}{123758}...to be what I was.
+{123808}{123860}And forgive me for what I am.
+{125916}{125958}Back together again, eh?
+{126062}{126090}Let's play.
+{130381}{130406}Cover yourself!
+{130519}{130536}Fuck!
+{133260}{133318}I'm not sure this is the place.
+{133331}{133373}This is the place.
+{133580}{133618}I'm going with you.
+{134374}{134398}Manito.
+{134460}{134508}What are you doing here?
+{134550}{134624}I thought I was looking for|the devil himself.
+{134678}{134763}And all this time|it was my own brother.
+{134860}{134914}I didn't know it was you.
+{134926}{134979}I only found out this morning.
+{135200}{135259}I ought to kill you right now.
+{135274}{135312}You disgraced me.
+{135318}{135376}We always knew you were up to no good.
+{135383}{135417}Never thought you'd go this far.
+{135423}{135478}So my little brother comes here...
+{135483}{135513}...to teach me a lesson.
+{135519}{135572}Show me what's right from wrong.
+{135596}{135639}You are a guitar player.
+{135646}{135732}What are you doing killing my men,|ruining my business?!
+{135738}{135782}They killed the woman I loved.
+{135788}{135844}You killed them!|What do you want?
+{135855}{135906}I don't set out to kill innocent people.
+{135912}{135955}You just buy innocent people.
+{135968}{136000}You don't kill them...
+{136005}{136050}...until you have no use for them.
+{136101}{136148}Isn't she the woman you love now?
+{136153}{136199}When we take away something...
+{136205}{136244}...we replace it.
+{136255}{136306}She's a real piece of work.
+{136312}{136354}Trust me. I know.
+{136359}{136389}Sorry about the bookstore.
+{136394}{136444}I always said|it would go up in smoke.
+{136460}{136559}Had I known it was my brother you were|fucking, I'd have acted differently.
+{136564}{136587}Cesar...
+{136619}{136677}...I've learned to read the eyes of men.
+{136682}{136725}What do you read in mine?
+{136743}{136787}Defeat, brother.
+{136807}{136830}Defeat?
+{136840}{136873}Look at you.
+{136890}{136938}You came here to kill me.
+{136947}{136999}Papa wouldn't be proud of you anymore.
+{137006}{137059}You were his little guitarrista.
+{137065}{137099}His little mariachi.
+{137119}{137147}And now...
+{137153}{137208}...just a piece of shit like me!
+{137249}{137285}You want to kill me?
+{137291}{137324}Let me tell you something.
+{137330}{137373}You have already killed me!
+{137399}{137445}Put your hands up, manito.
+{137506}{137529}Let's go.
+{137534}{137560}Put them up!
+{137634}{137656}I'm sorry.
+{137671}{137754}But I can't have you acting heroic|when I punish Carolina...
+{137760}{137789}...for betraying me.
+{137794}{137847}But let me do this|and we'll be even.
+{137858}{137901}Clean slate.
+{137912}{137961}You killed my men. Okay.
+{137966}{137994}What's done is done.
+{138006}{138046}I'm finished anyway.
+{138052}{138082}But now...
+{138106}{138139}...l kill Carolina.
+{138186}{138235}And you get to watch.
+{138469}{138499}Goodbye, Carolina.
+{138719}{138763}Everyone I've killed...
+{138803}{138848}...was someone's father...
+{138879}{138921}...someone's son...
+{138989}{139031}...someone's brother.
+{139348}{139373}Practice.
+{139789}{139821}Where are you going?
+{139901}{139933}I don't know.
+{140360}{140389}Carolina?
+{140438}{140469}Did I thank you?
+{140519}{140543}No.
+{140620}{140647}I will.
+{141658}{141688}So...
+{141699}{141756}I want you to thank me right now.
+{142262}{142291}Thank you.
+{142947}{142988}Just in case.
+{143027}{143084}It's a long ride to the next town.

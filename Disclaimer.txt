@@ -1,0 +1,167 @@
+Since you're about to intall a Cydoor enabled application,
+you must read and accept the following -
+
+Cydoor Technologies Ltd. Software End User License Agreement
+
+By clicking on the "Accept" button, you are consenting to be 
+bound by and are becoming a party to this agreement. If you 
+do not agree to all of the terms of this agreement, click 
+the "Do not accept" button. 
+
+1. Definitions:
+
+(a) "Cydoor Software" means the software program covered by 
+    this Agreement, and all related updates supplied by 
+    Cydoor Technologies.
+
+(b) "Cydoor Product" means the Cydoor Software and any 
+    related documentation, models and multimedia content 
+    (such as animation, sound and graphics), and all related 
+    updates supplied by Cydoor Technologies Ltd (follows:
+    "Cydoor").
+
+Upon acceptance of this agreement, Cydoor Technologies grants 
+to you a non-exclusive license to use the Software, provided 
+that you agree to the following:
+
+2. License Grant:
+
+You may install the Software on a hard disk or other storage 
+device; install and use the Software on a file server for use
+on a network for the purposes of (i) permanent installation 
+onto hard disks or other storage devices or (ii) use of the 
+Software over such network; and make backup copies of the 
+Software.
+
+You may make and distribute unlimited copies of the Software, 
+excluding copies for commercial distribution, as long as each 
+copy that you make and/or distribute is subject to this 
+Agreement, and the same copyright and other proprietary 
+notices pertaining to this Software that appear in the 
+Software. If you download the Software from the Internet or 
+similar on-line source, you must include the Cydoor
+copyright notice for the Software with any on-line 
+distribution and on any media you distribute that includes 
+the Software.
+
+This License does not entitle you hard-copy documentation, 
+support or telephone assistance. Cydoor reserves the right 
+at any time not to release a commercial release of the 
+Software or, if released, to alter prices, features, 
+licensing terms, or other characteristics of the commercial 
+release.
+
+3. Restrictions:
+
+You may not permit other individuals to use the Software 
+except under the terms listed above.  You may not copy the 
+Software other than as specified above.  You agree not to 
+modify, adapt, translate, reverse engineer, decompile, 
+disassemble or otherwise attempt to discover the source code 
+of the Software (except and solely to the extent an 
+applicable statute expressly and specifically prohibits such 
+restrictions). You may not modify, rent, lease, resell for 
+profit, distribute or create derivative works based upon the 
+Cydoor Product or any part thereof.  You may not grant a 
+security interest in, or otherwise transfer rights to the 
+Software.  You may not remove any proprietary notices or 
+labels on the Software. 
+ 
+4. Disclaimer of Warranty:
+
+The software is provided on an "as is" basis, without 
+warranty of any kind from Cydoor, express or implied, 
+including without limitation warranty of merchantability, 
+free of defects, fitness for a particular purpose and 
+non-infringement of third party rights. The entire risk as to 
+the quality and performance of the software is borne by you. 
+Should the software prove defective in any respect, you and 
+not Cydoor or its suppliers assume the entire cost of any 
+service and repair. 
+
+This disclaimer of warranty constitutes an essential part of 
+the agreement. No use of the software is authorized hereunder 
+except under this disclaimer.
+
+In no event will Cydoor be liable to you for consequential, 
+incidental, special or exemplary damages arising out of a 
+breach of this agreement or warranty or your use of the 
+software, including but not limited to lost profits or loss 
+of business, even if Cydoor has been apprised of the 
+likelihood of such damages occurring.
+
+Cydoor shall have no obligation to you with respect to any 
+claim of infringement based upon your use of the software in 
+combination, operation or otherwise with the data or 
+materials not supplied by Cydoor.
+
+5. Downloading Additional Software:
+
+In the event that your computer lacks software necessary for 
+the Software to operate, a message will automatically be sent 
+by the Software to Cydoor that additional software is needed.
+Cydoor will then send you the additional software required 
+for operation of the Software.  By accepting this Agreement, 
+you agree that the Software and any additional software 
+needed will be downloaded into your computer.
+
+6. Termination:
+
+This Agreement and the license granted hereunder will 
+terminate automatically if you fail to comply with the 
+limitations described herein. Upon termination, you must 
+destroy all copies of the Software and Documentation.
+
+7. Privacy Act:
+
+This Agreement is subject to the Israeli Privacy Act of 1981.
+Cydoor shall neither attain nor use any of your identifying
+characteristics. In addition, Cydoor will not obtain any 
+personal information that could identify you including your
+name, picture or voice in order to match said personal 
+characteristics to the information in the registration form.
+Nevertheless, by accepting this software, you hereby 
+authorize Cydoor to use the information in your 
+registration form when selecting advertisements for you. 
+Cydoor will use the information in the registration form
+provided by you solely for the purpose of selecting which
+commercials may, in Cydoor opinion, interest you most.
+
+By downloading the Cydoor Product, you are confirming your
+acceptance of the Software and agreeing to be bound by the
+terms of this Agreement.
+
+8. General:
+
+This Agreement shall be governed by the laws of the State of
+Israel. This Agreement contains the complete agreement 
+between the parties with respect to the license granted 
+hereunder and supercedes all prior or contemporaneous 
+agreements or understandings, whether oral or written.
+This Agreement may be amended only by a writing signed by an 
+authorized officer of Cydoor.
+
+This Agreement will not be governed by the United Nations
+Convention on Contracts for the International Sale of Goods,
+the application of which is expressly excluded.  You agree
+that the Software will not be shipped, transferred or
+exported into any country or used in any manner, directly or
+indirectly, prohibited by the United States Export 
+Administration Act or any other export laws, restrictions or
+regulations.
+
+If any provision of this Agreement is held to be void and 
+unenforceable, it will not affect the validity of the balance
+of the Agreement.  Such provision shall be reformed only to
+the extent necessary to make it enforceable. This Agreement 
+shall be governed by Israeli law, excluding conflict of law 
+provisions (except to the extent applicable law, if any, 
+provides otherwise).
+
+Manufacturer: 
+	Cydoor Technologies, 22 Maskit St Hertzelia, Israel.
+	http://www.cydoor.com
+										
+Your acceptance of the foregoing agreement was indicated 
+during installation.
+

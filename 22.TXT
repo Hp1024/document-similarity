@@ -1,0 +1,216 @@
+########THESE Q'S WORTH OF 14 or 15 marks.sufficient.some of 
+my
+friends are
+also compiling the papers i will send them 
+also.###############
+
+@@@@@@@@@MUG!!!! UP THE QUESTIONS VERY WELL MOST OF the ANS 
+ARE
+CORRECT.BUT
+YOU CAN VERIFY THEM IF TIME ALLOWS@@@@@@@@@@@
+
+TECHNICAL:::::;(MANY Q's OF LAST YEAR WERE REPEATED IN 
+TECHNICAL
+PART)
+
+1). Piggy backing is a technique for
+
+a) Flow control b) sequence c) Acknowledgement d)
+retransmition
+
+ans: c piggy backing
+
+2). The layer in the OST model handles terminal emulation
+
+a) session b) application c) presentation d) transport
+
+ans: b application
+
+3) ans: a odd numbers of errors
+
+4)Q. In signed magnitude notation what is the minimum value
+that can be
+represented with 8 bits
+
+a) -128 b) -255 c) -127 d) 0 ANS a)
+
+5) c 20(no of address lines in 1MB of memory)
+
+6) a 120(25 hz processor,what is the time taken by 
+the
+instr which
+needs 3 clock cycles)
+
+7) b synchronise the access(semaphores used for)
+
+8) a system call(context switching is used in)
+
+9) b the operating system(mapping of virtual to
+physical address)
+
+10) a 177333(conversion of HEX "0xFEDB"in octal)
+
+11) d used as a network layer protocall in network 
+and
+windows(OLE)
+system
+
+12) b has to be unique in the sub network(internet
+address)
+
+13)Q. there is an employer table with key feilds as employer 
+no.
+data
+in every
+n'th row are needed for a simple following queries will get
+required
+results.
+
+a) select A employe no. from employe A , where exists from
+employe B
+where A employe no. >= B employe having (count(*) mod n)=0
+b) select employe no. from employe A, employe B where
+A employe no. >= B employ no. grouply employe no. having
+(count(*)
+mod n=0 )
+c) both a& b
+d)none of the above
+
+14)Q. type duplicates of a row in a table customer with non
+uniform key
+feild
+customer no. you can see
+
+a) delete from costomer where customer no. exists
+( select distinct customer no. from customer having count )
+b) delete customer a where customer no. in
+(select customer b where custermer no. equal to b custemor no. 
+)
+and a
+rowid >
+b rowid
+c) delete customer a where custermor no. in
+( select customer no. from customer a, customer b )
+d) none of the above
+
+15) which feature in ANSI C but not in JAVA.??ANS variable
+arguments.
+
+16)preprocessor does not do one of the following??ANS type
+checking.
+
+17) long int size
+a) 4 bytes b) 2 bytes c) compiler dependent d) 8 bytes
+ans: compiler dependent
+
+18) x=2,y=6,z=6
+x=y==z;
+printf(%d",x) ?ANS 1
+
+19) class c : public A,publicB
+a)2 members in class a,b can have member functions with same
+name.
+b)2 members in class a,c can have member functions with same
+name.
+c)both
+d)none(ANS)
+
+#######WHAT WILL BE THE I/O OF THE FOLLOWING ############
+
+20) main()
+{
+char *p;
+p=malloc(10);
+free(p);
+printf("%d",p);
+}
+ANS compilation error
+
+21)a=(10,15)
+b=10,15
+what are the values of a & b in ANSI C
+ANS 15,10
+
+22)main(){
+int x=10,y=15,z=16;
+x=y==z;
+printf("%d",x);
+ANS 0
+
+23)f(n) f(x)
+{
+if(x
+<=0)
+return;
+else f(x-1)+x;
+}
+find the value of fn(5)? ANS 15.
+
+24)struct {
+int det;
+struct prevoius;
+struct new;
+}
+delete(struct node)
+{
+node-prev-next=node-next;
+node-next-prev=node-prev;
+if(node==head)node
+}
+one element will be given.
+ANS::it does not work when rp is the last element in the link
+list.
+
+25)A code will be given which searches a particular char in 
+the
+string.
+ANS:: it always works.
+
+26)main()
+{
+int var =25,varp;
+varp=&var;
+varp p=10;
+fnc(varp);
+printf("%d%d",var,varp);
+}
+ANS::55,55 (check this out)
+
+27)#define VALUE 1+2
+main()
+{
+printf("%d and %d\n",VALUE/VALUE,VALUE*3);
+}
+ANS:: 5,7
+
+28)What is the value assigned to the variable a if b is 7
+a=b>8?b<<2:b>4?b>>1:b;
+ANS::3
+
+29)the value of the following expr (2^3)+(a^a) is
+a) 1 b)2 c) 3 d) insufficient data
+
+30) which of the following is not basic data type
+ANS char*
+
+31)the declaration of the variable does not result in one of 
+the
+following
+ANS allocatrion of the storage space for the varable.
+
+32)in C parameters are passed by
+ANS:: value only.
+
+33)2 variables cannot have the same name if they are
+ANS:: in the same block.
+
+34)a static funct. say s(),in as file f.c can be invoked from
+ANS all functs. in f.c after the definitions of s.
+
+35)macros and functions do not differ in the following aspects
+ANS::variable no of arguments.
+
+36)one q's in which he will give some different forms of 
+STRCPY
+function you
+will have to find out which form is correct.
